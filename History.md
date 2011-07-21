@@ -1,3 +1,21 @@
+0.5.0 / 2011-07-20
+==================
+
+  * CLI interface now tracks how many steps and safely exits when done
+
+0.4.1 / 2011-07-19
+==================
+
+  * Got rid of extra space in unimplemented step args
+
+0.4.0 / 2011-07-19
+==================
+
+  * Command line runner by default
+  * Command line options "peanut -h"
+  * Set global timeout
+  * Specify port for web runner
+
 0.3.1 / 2011-07-12
 ==================
 
